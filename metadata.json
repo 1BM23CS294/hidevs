@@ -1,0 +1,5 @@
+
+{
+  "name": "Self-Managed Logging Aggregator",
+  "description": "An AI-driven log aggregator that retrieves and analyzes logs, detects patterns, and stores them locally to avoid dependency on external logging APIs. It provides cost-effective, self-managed log monitoring and analysis."
+}
